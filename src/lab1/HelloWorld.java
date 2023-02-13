@@ -2,6 +2,6 @@ package lab1;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-        System.out.print("This is a demo project.");
+        System.out.print("Hello World!");
     }
 }
